@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 238, 213);
+}
+
+nav{
+    width: 100%;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li a{
+    text-decoration: none;
+    margin: 30px;
+}
+
+footer{
+    position: fixed;
+    bottom: 5px;
+}
